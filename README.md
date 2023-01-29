@@ -9,4 +9,4 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 - 📽️ I **regularly** upload a **new video** to **[YouTube channel IT Academy](https://www.youtube.com/c/IT-AcademySK)**
 - 📫 You can find me at **[LinkedIn](https://www.linkedin.com/in/miroslav-reiter/)**
 
-- ⚡ **Fun fact**: I have **graduated from 12 different Universities**. I am currently studying at **5 other Universities**, **3 of which are PhDs**. Check out my [**LinkedIn**](https://www.linkedin.com/in/miroslav-reiter/) profile
+- ⚡ **Fun fact**: I have **graduated from 13 different Universities**. I am currently studying at **4 other Universities**, **3 of which are PhDs**. Check out my [**LinkedIn**](https://www.linkedin.com/in/miroslav-reiter/) profile
