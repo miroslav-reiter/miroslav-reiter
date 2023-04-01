@@ -6,7 +6,7 @@
 - 👨‍🏫 I teach programming and how to use IT technologies effectively at **[VITA](https://www.vita.sk/)** and **[IT Academy](https://www.it-academy.sk/)**
 My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**. **I recommend** buying an **annual subscription** with **all courses**
 - 📢 I frequently speak at conferences and workshops. Mostly about **IT** (programming, automation, certification, testing, enterprise architecture and modeling), **management** (Project management, PRINCE2, ITIL4), **education** and **online marketing** with ads (Google Ads, Google Analytics, Copywriting, Social media, YouTube)
-- 📽️ I **regularly** upload a **new videos** to **[YouTube channel IT Academy](https://www.youtube.com/c/IT-AcademySK)**  
+- 📽️ I **regularly** upload a **new videos** to **[YouTube channel IT Academy](https://www.youtube.com/c/IT-AcademySK)**   
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqr8oNlj1UOeBSFqczXM1yg?style=social)
 
 - 📫 You can find me at **[LinkedIn](https://www.linkedin.com/in/miroslav-reiter/)**
