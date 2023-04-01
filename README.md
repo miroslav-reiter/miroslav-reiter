@@ -4,7 +4,8 @@
 - 🦸 I am a **Google Certified Trainer**, **Microsoft Certified Trainer**, ISTQB/GASQB Trainer, PRINCE2/ITIL4/ArchiMate/TOGAF/UML/BPMN/Scrum Trainer
 - ⚒️ My preferred programming languages are **Java ☕**, **Python 🐍**, JavaScript (Google Apps Script), VBA and R
 - 👨‍🏫 I teach programming and how to use IT technologies effectively at **[VITA](https://www.vita.sk/)** and **[IT Academy](https://www.it-academy.sk/)**
-My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**. **I recommend** buying an **annual subscription** with **all courses**
+My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**. **I recommend** buying an **annual subscription** with **all courses**  
+[![Google Badge](https://img.shields.io/badge/VITA-blueviolet?label=Online%20Akreditovane%20Kurzy%20a%20Skolenia)](https://www.vita.sk/)
 - 📢 I frequently speak at conferences and workshops. Mostly about **IT** (programming, automation, certification, testing, enterprise architecture and modeling), **management** (Project management, PRINCE2, ITIL4), **education** and **online marketing** with ads (Google Ads, Google Analytics, Copywriting, Social media, YouTube)
 - 📽️ I **regularly** upload a **new videos** to **[YouTube channel IT Academy](https://www.youtube.com/c/IT-AcademySK)**   
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqr8oNlj1UOeBSFqczXM1yg?style=social)
