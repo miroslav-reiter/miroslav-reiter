@@ -75,6 +75,14 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <br />
 
 # Frameworks, Methodologies and Methods  
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-archimate.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bpmn.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-itil.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-prince2.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scrum.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-togaf.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-uml.png" />
+
 
 
 <br />
