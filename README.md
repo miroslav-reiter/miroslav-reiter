@@ -64,7 +64,11 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <br />
 
 # Databases
-
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-mongodb.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-mysql.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-postgresql.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql-server.png" />
 <br />
 
 # Frameworks, Methodologies and Methods
