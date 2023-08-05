@@ -27,8 +27,7 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 [![Google Badge](https://img.shields.io/badge/Google%20-VITA-bluey)](https://www.google.sk/search?q=vita+academy&tbm=lcl&ei=0msoZPCLGejFkPIPjb-dqA4&oq=vita+Academy&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYATIGCAAQBxAeMgcIABANEIAEMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yCAgAEAcQHhAKMgcIABANEIAEMgYIABAHEB4yBggAEAcQHjoICAAQBxAeEBNQAFi8BWD8EWgAcAB4AIABSYgBkAKSAQE0mAEAoAEBwAEB&sclient=gws-wiz-local#rlfi=hd:;si:4060253256403905575,l,Cgx2aXRhIGFjYWRlbXlI-OOau6WwgIAIWh4QABABGAAYASIMdml0YSBhY2FkZW15KgYIAhAAEAGSARhjb21wdXRlcl90cmFpbmluZ19zY2hvb2w;mv:[[48.16867597731903,17.149475354420048],[48.16831602268097,17.148935645579957]])
 
 
-# Languages  
-
+# Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
@@ -40,8 +39,6 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-vba.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-xml.png" />
 <br />
-
-# Tools  
 
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-anaconda.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-datalore.png" />
@@ -63,10 +60,8 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-visual-studio-ide.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-webstorm.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-wordpress.png" />
-
 <br />
-
-# Databases  
+ 
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-mongodb.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-mysql.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle.png" />
@@ -74,7 +69,6 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql-server.png" />
 <br />
 
-# Frameworks, Methodologies and Methods  
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-archimate.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bpmn.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-itil.png" />
@@ -83,6 +77,3 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-togaf.png" />
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-uml.png" />
 
-
-
-<br />
