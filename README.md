@@ -84,3 +84,9 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="FastAPI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-fastapi.png" />
 <img align="left" alt="Oracle DB" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle-db.png" />
 
+<img align="left" alt="Enterprise Architect" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-enterprise-architect.png" />
+<img align="left" alt="SAP ABAP" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sap-abap.png" />
+<img align="left" alt="Microsoft PowerBI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-logo-power-bi" />
+<img align="left" alt="Linux" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux.png" />
+<img align="left" alt="Linux Kali" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux-kali.png" />
+
