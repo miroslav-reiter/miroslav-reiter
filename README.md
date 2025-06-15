@@ -24,35 +24,42 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
-<img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
-<img align="left" alt="java" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
-<img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
-<img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
-<img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
+<img align="left" alt="HTML" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
+<img align="left" alt="Java" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
+<img align="left" alt="JavaScript JS" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
+<img align="left" alt="NoSQL" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
+<img align="left" alt="Python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
+<img align="left" alt="Julia" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-julia.png" />
 <img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
 <img align="left" alt="SQL" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql.png" />
 <img align="left" alt="VBA" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-vba.png" />
+<img align="left" alt="SAP ABAP" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sap-abap.png" />
 <img align="left" alt="XML" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-xml.png" />
 
 <img align="left" alt="Anaconda IDE" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-anaconda.png" />
 <img align="left" alt="Jetbrains Datalore" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-datalore.png" />
-<img align="left" alt="Microsoft Excel" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-excel.png" />
-<img align="left" alt="Google Analztics" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ga.png" />
-<img align="left" alt="Jetbrains IntelliJ Idea" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-IntelliJ_IDEA.png" />
-<img align="left" alt="Jmeter" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-jmeter.png" />
-<img align="left" alt="Katalon" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-katalon.png" />
-<img align="left" alt="Notepad++" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-notepadplu.png" />
-<img align="left" alt="PHP Storm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-phpstorm.png" />
-<img align="left" alt="Plausible" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-plausible.png" />
-<img align="left" alt="Microsoft Project" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-project.png" />
 <img align="left" alt="Jetbrains PyCharm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-pycharm.png" />
+<img align="left" alt="Jetbrains PHP Storm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-phpstorm.png" />
+<img align="left" alt="Jetbrains Webstorm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-webstorm.png" />
+<img align="left" alt="Jetbrains IntelliJ Idea" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-IntelliJ_IDEA.png" />
+<img align="left" alt="Apache Netbeans" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-netbeans.png" />
+<img align="left" alt="Microsoft Visual Studio" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-visual-studio-ide.png" />
 <img align="left" alt="R Studio" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-rstudio.png" />
+<img align="left" alt="Notepad++" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-notepadplu.png" />
+
 <img align="left" alt="Selenium" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-selenium.png" />
+<img align="left" alt="Katalon" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-katalon.png" />
+<img align="left" alt="Apache JMeter" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-jmeter.png" />
 <img align="left" alt="SoapUI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-soapui.png" />
 <img align="left" alt="CMD Terminal" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-terminal.png" />
+
+<img align="left" alt="Microsoft Excel" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-excel.png" />
 <img align="left" alt="Microsoft Visio" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-visio.png" />
-<img align="left" alt="Microsoft Visual Studio" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-visual-studio-ide.png" />
-<img align="left" alt="Jetbrains Webstorm" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-webstorm.png" />
+<img align="left" alt="Microsoft Project" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-project.png" />
+<img align="left" alt="Microsoft PowerBI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-microsoft-powerbi.png" />
+<img align="left" alt="IBM SPSS" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ibm-spss.png" />
+<img align="left" alt="Google Analytics" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ga.png" />
+<img align="left" alt="Plausible" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-plausible.png" />
 <img align="left" alt="WordPress" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-wordpress.png" />
  
 <img align="left" alt="MongoDB" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-mongodb.png" />
@@ -60,6 +67,7 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="Oracle DB" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle.png" />
 <img align="left" alt="PostgreSQL" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-postgresql.png" />
 <img align="left" alt="Microsoft SQL Server" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql-server.png" />
+<img align="left" alt="SQLite" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sqlite.png" />
 
 <img align="left" alt="ArchiMate" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-archimate.png" />
 <img align="left" alt="BPMN" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bpmn.png" />
@@ -68,37 +76,26 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="SCRUM" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scrum.png" />
 <img align="left" alt="TOGAF" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-togaf.png" />
 <img align="left" alt="UML" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-uml.png" />
-
-<img align="left" alt="Julia" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-julia.png" />
-<img align="left" alt="Docker" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-docker.png" />
-<img align="left" alt="Scikit-learn" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scikit-learn.png" />
-<img align="left" alt="Bokeh" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bokeh.png" />
-<img align="left" alt="Keras" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-keras.png" />
-
-<img align="left" alt="Apache Hadoop" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-hadoop.png" />
-<img align="left" alt="Apache Spark" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-spark.png" />
-<img align="left" alt="ChatGPT" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-chatgpt.png" />
-<img align="left" alt="Gemini" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-gemini.png" />
-<img align="left" alt="GitHub" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-github.png" />
-<img align="left" alt="Tensorflow" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-tensorflow.png" />
-<img align="left" alt="FastAPI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-fastapi.png" />
-<img align="left" alt="Oracle DB" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle-db.png" />
-
 <img align="left" alt="Enterprise Architect" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-enterprise-architect.png" />
-<img align="left" alt="SAP ABAP" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sap-abap.png" />
-<img align="left" alt="Microsoft PowerBI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-microsoft-powerbi.png" />
-<img align="left" alt="Linux" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux.png" />
-<img align="left" alt="Linux Kali" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux-kali.png" />
 
 <img align="left" alt="Numpy" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-numpy.png" />
 <img align="left" alt="Matplotlib" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-matplotlib.png" />
 <img align="left" alt="Polars" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-polars.png" />
 <img align="left" alt="Streamlit" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-streamlit.png" />
+<img align="left" alt="Scikit-learn" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scikit-learn.png" />
+<img align="left" alt="Bokeh" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bokeh.png" />
+<img align="left" alt="Keras" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-keras.png" />
+<img align="left" alt="Tensorflow" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-tensorflow.png" />
+<img align="left" alt="FastAPI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-fastapi.png" />
 
-<img align="left" alt="IBM SPSS" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ibm-spss.png" />
+<img align="left" alt="ChatGPT" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-chatgpt.png" />
+<img align="left" alt="Gemini" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-gemini.png" />
+<img align="left" alt="Apache Hadoop" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-hadoop.png" />
+<img align="left" alt="Apache Spark" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-spark.png" />
+
+<img align="left" alt="Linux" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux.png" />
+<img align="left" alt="Linux Kali" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux-kali.png" />
 <img align="left" alt="Wireshark" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-wireshark.png" />
-
-<img align="left" alt="SQLite" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sqlite.png" />
-<img align="left" alt="Apache Netbeans" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-netbeans.png" />
-
+<img align="left" alt="Docker" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-docker.png" />
+<img align="left" alt="GitHub" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-github.png" />
 
