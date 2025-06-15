@@ -90,3 +90,15 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="Linux" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux.png" />
 <img align="left" alt="Linux Kali" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-linux-kali.png" />
 
+<img align="left" alt="Numpy" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-numpy.png" />
+<img align="left" alt="Matplotlib" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-matplotlib.png" />
+<img align="left" alt="Polars" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-polars.png" />
+<img align="left" alt="Streamlit" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-streamlit.png" />
+
+<img align="left" alt="IBM SPSS" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-ibm-spss.png" />
+<img align="left" alt="Wireshark" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-wireshark.png" />
+
+<img align="left" alt="SQLite" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sqlite.png" />
+<img align="left" alt="Apache Netbeans" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-netbeans.png" />
+
+
