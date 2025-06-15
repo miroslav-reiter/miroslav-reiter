@@ -1,6 +1,4 @@
-# About me
-- 👋 Hi, I am @Miroslav-Reiter
-
+# <div align="center"> <h2><img src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/wave-someone.gif" width="45px"> Hi, I am @Miroslav-Reiter  <br>Welcome and Thanks for following 😎</h2></div> 
 - 🦸 I am a **Google Certified Trainer GCT**, **Microsoft Certified Trainer MCT**, **Microsoft Most Valuable Professional MVP**, ISTQB/GASQB Trainer, PRINCE2/ITIL4/ArchiMate/TOGAF/UML/BPMN/Scrum Trainer
 - ⚒️ My preferred programming languages are **Java ☕**, **Python 🐍**, JavaScript (Google Apps Script), VBA and R
 - 👨‍🏫 I teach programming and how to use IT technologies effectively at **[VITA](https://www.vita.sk/)** and **[IT Academy](https://www.it-academy.sk/)**
