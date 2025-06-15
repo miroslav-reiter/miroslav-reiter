@@ -71,12 +71,18 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="TOGAF" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-togaf.png" />
 <img align="left" alt="UML" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-uml.png" />
 
-
 <img align="left" alt="Julia" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-julia.png" />
 <img align="left" alt="Docker" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-docker.png" />
 <img align="left" alt="Scikit-learn" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scikit-learn.png" />
 <img align="left" alt="Bokeh" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bokeh.png" />
 <img align="left" alt="Keras" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-keras.png" />
 
-
+<img align="left" alt="Apache Hadoop" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-hadoop.png" />
+<img align="left" alt="Apache Spark" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-apache-spark.png" />
+<img align="left" alt="ChatGPT" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-chatgpt.png" />
+<img align="left" alt="Gemini" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-gemini.png" />
+<img align="left" alt="GitHub" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-github.png" />
+<img align="left" alt="Tensorflow" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-tensorflow.png" />
+<img align="left" alt="FastAPI" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-fastapi.png" />
+<img align="left" alt="Oracle DB" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-oracle-db.png" />
 
