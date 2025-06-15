@@ -76,6 +76,7 @@ My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**.
 <img align="left" alt="Docker" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-docker.png" />
 <img align="left" alt="Scikit-learn" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-scikit-learn.png" />
 <img align="left" alt="Bokeh" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-bokeh.png" />
+<img align="left" alt="Keras" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-keras.png" />
 
 
 
