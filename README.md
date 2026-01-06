@@ -5,10 +5,10 @@
 My online courses can be bought directly at **[VITA.sk](https://www.vita.sk/)**. **I recommend** buying an **annual subscription** with **all courses**  
 [![Google Badge](https://img.shields.io/badge/VITA-blueviolet?label=Online%20Akreditovane%20Kurzy%20a%20Skolenia)](https://www.vita.sk/)
 - 📢 I frequently speak at conferences and workshops. Mostly about **IT** (programming, automation, certification, testing, enterprise architecture and modeling), **management** (Project management, PRINCE2, ITIL4), **education** and **online marketing** with ads (Google Ads, Google Analytics, Copywriting, Social media, YouTube)
-- 📽️ I **regularly** upload a **new videos** to **[YouTube channel Miroslav Reiter - VITA Academy](https://www.youtube.com/@VITA-Academy)**   
+- 📽️ I **regularly** upload a **new videos** to **[YouTube Channel Miroslav Reiter - VITA Academy](https://www.youtube.com/@VITA-Academy)**   
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqr8oNlj1UOeBSFqczXM1yg?label=YouTube%20IT%20Academy&style=social)
 
-- ⚡ **Fun fact**: I have **graduated from 14 different Universities**. I am currently studying at **4 other Universities**, **3 of which are PhDs**. Check out my [**LinkedIn**](https://www.linkedin.com/in/miroslav-reiter/) profile
+- ⚡ **Fun fact**: I have **graduated from 14 different Universities**. I am currently studying at **3 other Universities**, **2 of which are PhDs**. Check out my [**LinkedIn**](https://www.linkedin.com/in/miroslav-reiter/) profile
 
 # My Socials
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0011?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IT-AcademySK)
